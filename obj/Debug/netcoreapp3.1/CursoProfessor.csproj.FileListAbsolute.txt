@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\doidão\CursoProfessor\obj\Debug\netcoreapp3.1\CursoProfessor.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\doidão\CursoProfessor\obj\Debug\netcoreapp3.1\CursoProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\doidão\CursoProfessor\obj\Debug\netcoreapp3.1\CursoProfessor.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\doidão\CursoProfessor\obj\Debug\netcoreapp3.1\CursoProfessor.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\doidão\CursoProfessor\obj\Debug\netcoreapp3.1\CursoProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\doidão\CursoProfessor\obj\Debug\netcoreapp3.1\CursoProfessor.MvcApplicationPartsAssemblyInfo.cache
